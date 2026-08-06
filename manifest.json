@@ -1,0 +1,22 @@
+{
+  "short_name": "South Dinkers",
+  "name": "South Dinkers Sports Center",
+  "icons": [
+    {
+      "src": "assets/southdinkers/sdsc_paddle.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/southdinkers/sdsc_paddle.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#E21A22",
+  "background_color": "#FAFAFA"
+}
